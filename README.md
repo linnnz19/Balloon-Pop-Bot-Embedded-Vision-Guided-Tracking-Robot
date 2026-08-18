@@ -3,4 +3,4 @@ An embedded robotics platform integrating ROS with a lightweight YOLOv8 model de
 
 Project Report: https://hackmd.io/@suxMuBPuSgKN4_jZIzSXrw/BalloonPopBot_HungYiLin
 
-Demo Video : https://youtu.be/YYZG2IyykVk 、 https://youtube.com/shorts/Pxt5OTgBaX0?feature=share
+Demo Video : https://youtu.be/YYZG2IyykVk 
